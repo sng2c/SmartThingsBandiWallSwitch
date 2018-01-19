@@ -1,5 +1,5 @@
 /**
- *  Copyright 2015 SmartThings
+ *  Copyright 2015 sng2c
  *
  *  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
  *  in compliance with the License. You may obtain a copy of the License at:
@@ -21,7 +21,7 @@ metadata {
 		capability "Health Check"
 		capability "Light"
 
-		fingerprint mfr:"0236", prod:"0002", deviceJoinName: "Bandi Wall Switch"
+		fingerprint mfr:"0236", prod:"0003", model:"0002", deviceJoinName: "Bandi Wall Switch"
 	}
 
 	// simulator metadata
